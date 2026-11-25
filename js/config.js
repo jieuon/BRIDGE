@@ -1,7 +1,7 @@
 /* BRIDGE — site config. Edit freely. */
 window.BRIDGE_CONFIG = {
   // Link to the team site (2030 MYEONGDONG — ONE CITY. DIFFERENT JOURNEYS.). Leave "" until the URL is ready.
-  teamSite: "",
+  teamSite: "https://jieuon.github.io/Digital-Content/game.html",
   // ACT 05 videos — drop the files at these paths (muted mp4, 16:9). Missing files fall back to the VIDEO PLACEHOLDER.
   act5Videos: [
     "assets/video/act05-01-approach.mp4",
